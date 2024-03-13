@@ -1,6 +1,6 @@
  <h2 align="center">Welcome to my Github 🙏🏻, I am  Aleti Rajashekar!</h2>
  
-Final year BTech student majoring in Computer Science || Passionate about using technology to solve real-world problem || Aspiring Java Software Developer || 💻. My technical skills ✍️ include expertise in Java, SQL, Kotlin, JavaScript, HTML, CSS, Git & GitHub, SQL, which I have used to build both creative projects, web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
+Final year BTech student majoring in Information Technology || Passionate about using technology to solve real-world problem || Aspiring Java Software Developer || 💻. My technical skills ✍️ include expertise in Java, SQL,JavaScript,ReactJS, HTML, CSS, Git & GitHub, SQL, which I have used to build both creative projects, web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
 
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech.
