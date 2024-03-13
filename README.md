@@ -27,47 +27,47 @@ Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 
 ## 💻 GitHub Stats
 <p align="center">
-  <a href="#"><img alt="Rajashekar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Rajashekaraleti&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
-  <a href="#"><img alt="Rajashekar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashekaraleti&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+  <a href="#"><img alt="TBSVineeth's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=TBSVineeth&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="TBSVineeth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBSVineeth&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
 
 <details>	
   <summary><b> Github Streaks 🔥</b></summary><br>
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajashekaraleti&hide_border=true&theme=dark"></a></p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=TBSVineeth&hide_border=true&theme=dark"></a></p>
 </details>
 <details>
   <summary><b> Profile Views 👁️</b></summary>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Rajashekaraleti&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=TBSVineeth&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
 ## 🏆 My Trophies <br > 
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Rajashekaraleti&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=TBSVineeth&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   <br ><br >
 
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 <br>
 <p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/rajashekar-aleti-2bb54b218/" rel="nofollow"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rajashekaraleti"></a>
-<a href="https://www.instagram.com/rajashekar01__/" rel="nofollow"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Rajashekaraleti"></a>
+<a href="https://www.linkedin.com/in/vineeth-tirumalasetti-7749621ba/" rel="nofollow"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="TBSVineeth"></a>
+<a href="https://www.instagram.com/vineeth_tbs/" rel="nofollow"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="TBSVineeth"></a>
 
 </p>
 
 ## 🌐 Explore My Work
 - 💬 Ask Me Anything: I'm always happy to help! 😊
 - 📬 How to Reach Me:
-- ✉  rajashekar.aleti01@gmail.com
-- [Let's get in touch!](https://www.linkedin.com/in/rajashekar-aleti-2bb54b218/)
+- ✉ vineethworkspace2024@gmail.com
+- [Let's get in touch!](https://www.linkedin.com/in/vineeth-tirumalasetti-7749621ba/)
 
 ## 💡 Additional Insights
-- 🧠 Practicing Algorithms: I enjoy tackling coding challenges on [LeetCode](https://leetcode.com/rajashekar01_/)to enhance my problem-solving skills.
+- 🧠 Practicing Algorithms: I enjoy tackling coding challenges on [LeetCode](https://leetcode.com/Vineeth20BIT/)to enhance my problem-solving skills.
 
 
 <!--
-**Rajashekaraleti/Rajashekaraleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TBSVineeth/TBSVineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
