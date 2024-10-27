@@ -4,12 +4,17 @@ Hello! I’m Vineeth, a passionate Software Development Engineer specializing in
 
 💼 Experience Highlights:
 
-Hindustan Times: Created a data lake pipeline for real-time financial data, automated workflows with Google Apps Scripts, and developed ETL processes to streamline reporting.
-Moody's: Automated data transformation pipelines to enhance data quality for financial models using tools like DynamoDB and Kafka.
+Hindustan Times: Created a data lake pipeline for real-time financial data, automated workflows with Google Apps Scripts, and developed ETL processes to streamline reporting.</br>
+
+![image](https://github.com/user-attachments/assets/889db216-1a17-41ec-b094-400ad9eb4c2b)
+![image](https://github.com/user-attachments/assets/60f6ee20-1d2f-4bb2-bc34-2f71d8713a03)
+
+
+Moody's: Automated data transformation pipelines to enhance data quality for financial models using tools like DynamoDB and Kafka.</br>
 Samsung R&D: Built a recommendation engine and voice-controlled chatbot for smart home automation, leveraging ML and NLP with Python and local LLMs.</br>
 
 🔧 Technical Skills:
-Python, Java, AWS, Google Apps Script, PySpark, Kafka, MongoDB, SQL, and more.
+Python, Java, AWS, Google Apps Script, PySpark, Kafka, MongoDB, SQL, and more.</br>
 
 ## Languages and Tools: 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
