@@ -1,12 +1,14 @@
  <h2 align="center">Welcome to my Github 🙏🏻, I am  TBS Vineeth!</h2>
  
-Final year BTech student majoring in Information Technology || Passionate about using technology to solve real-world problem || Aspiring Java Software Developer || 💻. My technical skills ✍️ include expertise in Java,Python, SQL,JavaScript,ReactJS, HTML, CSS, Git & GitHub, SQL, which I have used to build both creative projects, web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
+Hello! I’m Vineeth, a passionate Software Development Engineer specializing in building scalable data pipelines and automating workflows. With a solid foundation in financial data engineering, I thrive on transforming raw data into actionable insights. I’ve developed data lakes, implemented end-to-end ETL processes, and built custom solutions for financial services with tools like MongoDB, SQL, and APIs.
 
+💼 Experience Highlights:
 
-Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech.
-I believe you only grow when you learn.
-
-Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
+Hindustan Times: Created a data lake pipeline for real-time financial data, automated workflows with Google Apps Scripts, and developed ETL processes to streamline reporting.
+Moody's: Automated data transformation pipelines to enhance data quality for financial models using tools like DynamoDB and Kafka.
+Samsung R&D: Built a recommendation engine and voice-controlled chatbot for smart home automation, leveraging ML and NLP with Python and local LLMs.
+🔧 Technical Skills:
+Python, Java, AWS, Google Apps Script, PySpark, Kafka, MongoDB, SQL, and more.
 
 ## Languages and Tools: 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
